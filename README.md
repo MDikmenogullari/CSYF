@@ -1,6 +1,6 @@
 # CSYF
 Created by @MDikmenogullari
-Last Modified by @MDikmenogullari 08.12.22
+Last Modified by @MDikmenogullari 14Dec22
 
 This is a tool to count number of sequences in your fasta file.
 I wrote this script because i had some fasta files downloaded by someone else who doesn't remember the number of sequences for each file.
