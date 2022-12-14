@@ -1,0 +1,32 @@
+H1.fasta :
+Number of Sequences: 773
+H10.fasta :
+Number of Sequences: 766
+H2.fasta :
+Number of Sequences: 420
+H4.fasta :
+Number of Sequences: 1461
+H5.fasta :
+Number of Sequences: 2509
+H6.fasta :
+Number of Sequences: 1345
+H7.fasta :
+Number of Sequences: 683
+H8.fasta :
+Number of Sequences: 136
+H9.fasta :
+Number of Sequences: 538
+h11.fasta :
+Number of Sequences: 545
+h12.fasta :
+Number of Sequences: 245
+h13.fasta :
+Number of Sequences: 419
+h14.fasta :
+Number of Sequences: 33
+h15.fasta :
+Number of Sequences: 14
+h16.fasta :
+Number of Sequences: 190
+h3.fasta :
+Number of Sequences: 1790
